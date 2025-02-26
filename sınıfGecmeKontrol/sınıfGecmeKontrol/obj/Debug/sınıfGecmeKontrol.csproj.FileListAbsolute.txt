@@ -1,0 +1,10 @@
+C:\Users\muham\Desktop\important folders\C# Projects\sınıfGecmeKontrol\sınıfGecmeKontrol\bin\Debug\sınıfGecmeKontrol.exe.config
+C:\Users\muham\Desktop\important folders\C# Projects\sınıfGecmeKontrol\sınıfGecmeKontrol\bin\Debug\sınıfGecmeKontrol.exe
+C:\Users\muham\Desktop\important folders\C# Projects\sınıfGecmeKontrol\sınıfGecmeKontrol\bin\Debug\sınıfGecmeKontrol.pdb
+C:\Users\muham\Desktop\important folders\C# Projects\sınıfGecmeKontrol\sınıfGecmeKontrol\obj\Debug\sınıfGecmeKontrol.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\important folders\C# Projects\sınıfGecmeKontrol\sınıfGecmeKontrol\obj\Debug\sınıfGecmeKontrol.Form1.resources
+C:\Users\muham\Desktop\important folders\C# Projects\sınıfGecmeKontrol\sınıfGecmeKontrol\obj\Debug\sınıfGecmeKontrol.Properties.Resources.resources
+C:\Users\muham\Desktop\important folders\C# Projects\sınıfGecmeKontrol\sınıfGecmeKontrol\obj\Debug\sınıfGecmeKontrol.csproj.GenerateResource.cache
+C:\Users\muham\Desktop\important folders\C# Projects\sınıfGecmeKontrol\sınıfGecmeKontrol\obj\Debug\sınıfGecmeKontrol.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\important folders\C# Projects\sınıfGecmeKontrol\sınıfGecmeKontrol\obj\Debug\sınıfGecmeKontrol.exe
+C:\Users\muham\Desktop\important folders\C# Projects\sınıfGecmeKontrol\sınıfGecmeKontrol\obj\Debug\sınıfGecmeKontrol.pdb

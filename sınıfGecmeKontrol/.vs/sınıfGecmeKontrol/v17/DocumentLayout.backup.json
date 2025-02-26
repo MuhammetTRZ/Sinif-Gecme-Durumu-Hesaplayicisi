@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\s\u0131n\u0131fGecmeKontrol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D69D8A-B8B2-431E-97F0-F3910039FE37}|s\u0131n\u0131fGecmeKontrol\\s\u0131n\u0131fGecmeKontrol.csproj|c:\\users\\muham\\desktop\\important folders\\c# projects\\s\u0131n\u0131fgecmekontrol\\s\u0131n\u0131fgecmekontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D69D8A-B8B2-431E-97F0-F3910039FE37}|s\u0131n\u0131fGecmeKontrol\\s\u0131n\u0131fGecmeKontrol.csproj|solutionrelative:s\u0131n\u0131fgecmekontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D69D8A-B8B2-431E-97F0-F3910039FE37}|s\u0131n\u0131fGecmeKontrol\\s\u0131n\u0131fGecmeKontrol.csproj|C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\s\u0131n\u0131fGecmeKontrol\\s\u0131n\u0131fgecmekontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3D69D8A-B8B2-431E-97F0-F3910039FE37}|s\u0131n\u0131fGecmeKontrol\\s\u0131n\u0131fGecmeKontrol.csproj|solutionrelative:s\u0131n\u0131fgecmekontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\s\u0131n\u0131fGecmeKontrol\\s\u0131n\u0131fGecmeKontrol\\Form1.cs",
+              "RelativeDocumentMoniker": "s\u0131n\u0131fGecmeKontrol\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\s\u0131n\u0131fGecmeKontrol\\s\u0131n\u0131fGecmeKontrol\\Form1.cs",
+              "RelativeToolTip": "s\u0131n\u0131fGecmeKontrol\\Form1.cs",
+              "ViewState": "AgIAACgBAAAAAAAAAADwv1ABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:02:30.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\s\u0131n\u0131fGecmeKontrol\\s\u0131n\u0131fGecmeKontrol\\Form1.cs",
+              "RelativeDocumentMoniker": "s\u0131n\u0131fGecmeKontrol\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\s\u0131n\u0131fGecmeKontrol\\s\u0131n\u0131fGecmeKontrol\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "s\u0131n\u0131fGecmeKontrol\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:57:45.156Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
